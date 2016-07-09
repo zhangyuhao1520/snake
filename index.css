@@ -1,0 +1,25 @@
+	body{
+		background:url(bg.jpg);
+	}
+	
+	.changjing{
+		width: 600px;
+		height: 600px;
+		/*border:#FFEB3B dotted 5px;
+		outline:#FF5722 dotted 5px;*/
+		box-shadow: 1px 1px 4px; 
+	 	margin: 10px auto;
+	}
+	.changjing .block{
+		width: 30px;
+		height: 30px;
+		float: left;
+	}
+	.changjing .she{
+		background-image: url(she.jpg);
+		background-size: cover;
+	}
+	.changjing .shiwu{
+		background:rgba(5,176,197,0.8);
+		border-radius: 50%;
+	} 
